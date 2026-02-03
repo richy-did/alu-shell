@@ -1,5 +1,5 @@
 #!/usr/bin/env bash 
-#Am goint to make a code that prints out Best schools using until 
+#Am going to make a code that prints out Best schools using until 
 i=0
 until [ "$i" -eq 10]
 do 
