@@ -1,6 +1,6 @@
-#!/usr/bin/env bash 
-#Am going ot print best school 10 times 
-for i in {1..10}
-do 
-echo "Best school"
+#!/usr/bin/env bash
+#We are using i to count the number of times it be printed using the interval 1-10.
+for _ in {1..10}
+do
+echo "Best School"
 done
