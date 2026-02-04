@@ -1,4 +1,4 @@
-#!/uar/bin/env bash
+#!/usr/bin/env bash
 #am writting a script that displays numbers from 1 to 100
 
 for ((i=1; i<=100; i++)); do
