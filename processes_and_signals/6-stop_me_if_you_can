@@ -1,5 +1,4 @@
 #!/usr/bin/env bash 
 #a script that stops task 4
 
-pid=$(pgrep -x 4-to_infinity_and_beyond | head -n 2)
-[ -n "$pid" ] && kill "$pid"
+pkill -f 4-to_infinity_and_beyond
